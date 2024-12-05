@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
        <h3>git hub  source control</h3>
        <p>one line added</p>
-       <p>another line added  line added</p>
+       <p>another line added changed  added</p>
        <Button/>
       </header>
     </div>
