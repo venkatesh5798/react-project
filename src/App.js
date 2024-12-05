@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import Button from './button';
 
 function App() {
   return (
@@ -8,6 +9,7 @@ function App() {
        <h3>git hub  source control</h3>
        <p>one line added</p>
        <p>another line added  line added</p>
+       <Button/>
       </header>
     </div>
   );
