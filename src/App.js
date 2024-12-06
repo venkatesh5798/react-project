@@ -3,6 +3,11 @@ import './App.css';
 import Button from './button';
 
 function App() {
+ const userDetails={
+  name:"venkat",
+  location :"chennai",
+  age:"24"
+ } 
   return (
     <div className="App">
       <header className="App-header">
