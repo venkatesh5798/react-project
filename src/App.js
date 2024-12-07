@@ -6,9 +6,7 @@ function App() {
  const userDetails={
   name:"venkat",
   location :"madurai",
-  age:"34",
-  education:"BE",
-  dept:"Mech"
+  age:"34"
  } 
   return (
     <div className="App">
