@@ -5,7 +5,7 @@ import Button from './button';
 function App() {
  const userDetails={
   name:"venkat",
-  location :"chennai ",
+  location : "vellore",
   age:"26"
  } 
   return (
