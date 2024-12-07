@@ -5,8 +5,8 @@ import Button from './button';
 function App() {
  const userDetails={
   name:"venkat",
-  location :"madurai",
-  age:"34"
+  location :"chennai ",
+  age:"26"
  } 
   return (
     <div className="App">
