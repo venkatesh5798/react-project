@@ -7,7 +7,8 @@ function App() {
   name:"venkat",
  state:"tamilandu",
   age:"26",
-  education:"Be"
+  education:"Be",
+  location:"chennai"
  } 
   return (
     <div className="App">
