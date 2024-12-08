@@ -4,7 +4,7 @@ import Button from './button';
 
 function App() {
  const userDetails={
-  name:"venkat",
+  name:"ramesh",
  state:"tamilandu",
   age:"26",
   education:"Be",
