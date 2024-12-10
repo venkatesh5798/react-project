@@ -9,7 +9,8 @@ function App() {
   age:"26",
   education:"Be",
   location:"chennai",
-  cuurentlocation:"ranipet "
+  cuurentlocation:"ranipet ",
+  destinationlocation:"madurai"
  } 
   return (
     <div className="App">
