@@ -8,7 +8,8 @@ function App() {
  state:"tamilandu",
   age:"26",
   education:"Be",
-  location:"chennai"
+  location:"chennai",
+  phoneNumber:"9876543210"
  } 
   return (
     <div className="App">
