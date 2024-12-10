@@ -9,7 +9,8 @@ function App() {
   age:"26",
   education:"Be",
   location:"chennai",
-  phoneNumber:"9876543210"
+  phoneNumber:"9876543210",
+  companyName:"hubino"
  } 
   return (
     <div className="App">
