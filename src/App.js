@@ -10,7 +10,8 @@ function App() {
   education:"Be",
   location:"chennai",
   phoneNumber:"9876543210",
-  companyName:"hubino"
+  companyName:"hubino",
+  description:"user deatils to be added"
  } 
   return (
     <div className="App">
